@@ -1,0 +1,531 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #F5F3F4;
+    width: 1200px;
+    height: 5800px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.image {
+    margin-top: 22px;
+    margin-left: 40px;
+}
+
+.ul {
+    margin-left: 500px;
+    display: flex;
+    margin-top: -28px;
+    gap: 45px;
+}
+
+li {
+    list-style-type: none;
+
+}
+
+.div02 {
+    width: 100px;
+    height: 41px;
+    background-color: black;
+    color: white;
+    border-radius: 16px;
+    font-size: 20px;
+    margin-left: 1410px;
+    margin-top: -28px;
+}
+
+.login {
+    color: white;
+    font-size: 20px;
+    margin-left: 1438px;
+    margin-top: -33px;
+}
+
+.always {
+    margin-top: 150px;
+    margin-left: 100px;
+    font-size: 75px;
+    font-weight: bold;
+}
+
+.text {
+    color: #12100CB2;
+    font-size: 28px;
+    margin-left: 100px;
+    margin-top: 25px;
+}
+
+.button {
+    width: 150px;
+    height: 47px;
+    background-color: #FFAE33;
+    color: black;
+    border-radius: 16px;
+    font-size: 20px;
+    margin-left: 95px;
+    margin-top: 58px;
+}
+
+.try {
+    color: black;
+    font-size: 23px;
+    font-weight: bold;
+    margin-left: 128px;
+    margin-top: -38px;
+}
+
+.text01 {
+    margin-left: 265px;
+    margin-top: -32px;
+    font-size: 18px;
+    color: #12100CB2;
+}
+
+.float-image {
+    margin-top: -470px;
+    margin-left: 800px;
+}
+
+.float {
+    width: 600px;
+    height: 600px;
+}
+
+.h1 {
+    font-size: 50px;
+    margin-left: 620px;
+    margin-top: 200px;
+}
+
+.del {
+    color: #12100CB2;
+    font-size: 40px;
+    margin-left: 420px;
+    padding-top: 500px;
+}
+
+.del02 {
+    color: #12100CB2;
+    font-size: 40px;
+    margin-left: 420px;
+    padding-top: 500px;
+}
+
+.style {
+    display: block;
+}
+
+.div222 {
+    margin-top: 10px;
+}
+
+.coding {
+    font-size: 40px;
+    margin-left: 660px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.CDI {
+    font-size: 35px;
+    font-weight: bold;
+    margin-left: 100px;
+    margin-top: 450px;
+}
+
+.inventments {
+    color: #12100CB2;
+    font-size: 20px;
+    margin-left: 105px;
+    margin-top: 7px;
+}
+
+.prebuilds {
+    width: 160px;
+    height: 33px;
+    background-color: #FFAE33;
+    color: black;
+    border-radius: 12px;
+    font-size: 15px;
+    margin-left: 95px;
+    margin-top: 208px;
+}
+
+.prebuilds-text {
+    margin-top: -27px;
+    margin-left: 110px;
+    font-weight: bold;
+}
+
+.document {
+    width: 140px;
+    height: 33px;
+    background-color: #FFB0AE;
+    color: black;
+    border-radius: 12px;
+    font-size: 15px;
+    margin-left: 275px;
+    margin-top: -24px;
+}
+
+.document-text {
+    margin-top: -27px;
+    margin-left: 295px;
+    font-weight: bold;
+}
+
+.images222 {
+    width: 600px;
+    height: 500px;
+    margin-top: -420px;
+    margin-left: 800px;
+}
+
+.remote {
+    font-size: 55px;
+    margin-left: 410px;
+}
+
+.second-one {
+    margin-top: 370px;
+}
+
+.image-rec {
+    margin-left: 110px;
+    margin-top: 50px;
+}
+
+.textt {
+    color: #12100CB2;
+    font-size: 25px;
+    margin-left: 250px;
+    margin-top: 35px;
+}
+
+.frame-2 {
+    margin-left: 630px;
+    margin-top: -100px;
+}
+
+.frame-3 {
+    margin-top: 50px;
+    margin-left: 400px;
+}
+
+.frame3 {
+    margin-top: -18px;
+}
+
+.h2 {
+    font-size: 55px;
+    margin-left: 410px;
+    margin-top: 250px;
+}
+
+.white-board {
+    margin-top: 50px;
+    margin-left: 100px;
+    width: 360px;
+    height: 200px;
+    border-radius: 16px;
+    background-color: white;
+}
+
+.gitbod {
+    margin-top: -180px;
+    margin-left: 130px;
+}
+
+.opinion {
+    margin-top: 10px;
+    margin-left: 130px;
+}
+
+.person-circle {
+    margin-left: 130px;
+    margin-top: 20px;
+}
+
+.ben {
+    margin-left: 200px;
+    font-size: 14px;
+}
+
+.ben-text {
+    margin-top: -55px;
+}
+
+.creator {
+    margin-left: 200px;
+    margin-top: 5px;
+}
+
+.forem {
+    margin-left: 360px;
+    margin-top: -19px;
+}
+
+.practise {
+    margin-left: 200px;
+    margin-top: 5px;
+}
+
+.white-board02 {
+    margin-top: -185px;
+    margin-left: 490px;
+    width: 380px;
+    height: 250px;
+    border-radius: 16px;
+    background-color: white;
+}
+
+.docker {
+    margin-left: 520px;
+    margin-top: -230px;
+}
+
+.plus {
+    margin-left: 520px;
+    margin-top: 10px;
+}
+
+.person-icon {
+    margin-left: 520px;
+    margin-top: 22px;
+}
+
+.michael {
+    margin-left: 585px;
+    margin-top: -50px;
+}
+
+.developer {
+    margin-left: 585px;
+    margin-top: 10px;
+}
+
+.white-board03 {
+    margin-top: -210px;
+    margin-left: 900px;
+    width: 380px;
+    height: 230px;
+    border-radius: 16px;
+    background-color: white;
+}
+
+.PR {
+    margin-left: 930px;
+    margin-top: -210px;
+}
+
+.person {
+    margin-left: 930px;
+    margin-top: 20px;
+}
+
+.julia {
+    margin-left: 1000px;
+    margin-top: -50px;
+}
+
+.creator02 {
+    margin-left: 1000px;
+    margin-top: 8px;
+}
+
+.white-board04 {
+    width: 90px;
+    height: 260px;
+    margin-left: 1310px;
+    margin-top: -195px;
+    background-color: white;
+    border-top-left-radius: 16px;
+    border-bottom-left-radius: 16px;
+}
+.short {
+    margin-left: 1325px;
+    margin-top: -245px;
+}
+.png6 {
+    margin-left: 1325px;
+}
+.logos {
+    margin-left: 180px;
+    margin-top: 100px;
+}
+.start {
+    margin-left: 600px;
+    margin-top: 250px;
+    font-size: 50px
+}
+.big-white-board {
+    margin-left: 100px;
+    margin-top: 50px;
+    background-color: white;
+    width: 540px;
+    height: 620px;
+    border-radius: 16px;
+}
+.git {
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 225px;
+    margin-top: -580px;
+}
+.select {
+    color: #12100CB2;
+    font-size: 19px;
+    margin-left: 205px;
+    margin-top: 10px;
+}
+.orange {
+     width: 230px;
+    height: 43px;
+    background-color: #FC6D26;
+    border-radius: 12px;
+    font-size: 15px;
+    margin-left: 265px;
+    margin-top: 70px;
+}
+.fox {
+    margin-left: 290px;
+    margin-top: -35px;
+}
+.with {
+    margin-left: 335px;
+    margin-top: -29px;
+    color: white;
+}
+.url {
+    color: #12100CB2;
+    margin-left: 185px;
+    margin-top: 70px;
+    font-size: 20px;
+}
+.with02 {
+    color: #12100CB2;
+    font-size: 20px;
+    margin-left: 370px;
+    margin-top: 10px;
+}
+.button333 {
+    width: 120px;
+    height: 30px;
+    background-color: #FFE4BC;
+    border-radius: 16px;
+    margin-left: 330px;
+    margin-top: 15px;
+}
+.io {
+    color: #12100CB2;
+    margin-left: 355px;
+    margin-top: -25px;
+}
+.big-white-board02 {
+    margin-left: 800px;
+    margin-top: -510px;
+    background-color: white;
+    width: 550px;
+    height: 620px;
+    border-radius: 16px;
+}
+.launch {
+    margin-left: 940px;
+    margin-top: -590px;
+    font-size: 30px;
+}
+.dive {
+    color: #12100CB2;
+    font-size: 20px;
+    margin-left: 860px;
+}
+.grey {
+    width: 400px;
+    height: 50px;
+    border-radius: 12px;
+    background-color: #F9F9F9;
+    margin-left: 880px;
+    margin-top: 30px;
+}
+.img01 {
+    margin-left: 900px;
+    margin-top: -30px;
+}
+.node {
+     margin-left: 940px;
+    margin-top: -29px;
+    font-size: 20px;
+    color: #12100CB2;
+}
+.black {
+    width: 110px;
+    height: 30px;
+    background-color: black;
+    margin-left: 1160px;
+    margin-top: -40px;
+    border-radius: 12px;
+}
+.workplace {
+    margin-left: 1180px;
+    color: white;
+    margin-top: -20px;
+    font-size: 15px;
+}
+.big-white {
+    background-color: white;
+    width: 1580px;
+    height: 700px;
+    margin-top: 500px;
+}
+.frames {
+    margin-top: -550px;
+    margin-left: 340px;
+    font-size: 50px;
+}
+.hr {
+    margin-left: 350px;
+    width: 900px;
+}
+.frame13 {
+    margin-left: 400px;
+    margin-top: 70px;
+}
+.copy {
+    font-size: 25px;
+    color: #12100CB2;
+    margin-left: 450px;
+    margin-top: -30px;
+}
+.logos03 {
+    margin-left: 1000px;
+    margin-top: -30px;
+}
+.lastone {
+    width: 1580px;
+    height: 60px;
+    background-color: #ECE7E5;
+    margin-top: 100px;
+}
+.last-text {
+font-size: 20px;
+margin-top: -40px;   
+margin-left: 30px; 
+}
+.last {
+    margin-top: -30px;
+    margin-left: 1300px;
+}
+.cookies {
+    margin-left: 1320px;
+    margin-top: -30px;
+}
+.accept {
+    margin-top: -18px;
+    margin-left: 1375px;
+}
